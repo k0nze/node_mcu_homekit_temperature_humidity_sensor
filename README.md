@@ -25,9 +25,12 @@ Install `curl`
 brew install curl
 ```
 
+
 ### Source Files
 [src/bridge/temperature\_humidity\_logger.sh](src/bridge/temperature_humidity_logger.sh)
 
 ## Credits
  * [Muhammad Afzal - Temperature Monitoring With DHT22 & Arduino](https://create.arduino.cc/projecthub/attari/temperature-monitoring-with-dht22-arduino-15b013)
  * [ESPWebServer - HelloServer](https://github.com/esp8266/ESPWebServer/tree/master/examples/HelloServer)
+ * [Arne Bahlo - homebridge-temperature-file](https://github.com/bahlo/homebridge-temperature-file)
+ * [Arne Bahlo - homebridge-humidity-file](https://github.com/bahlo/homebridge-humidity-file)
